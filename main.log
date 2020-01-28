@@ -1,16 +1,16 @@
-open source     > level 1, order 1, name '/home/lizardo/context/tex/texmf-context/tex/context/base/mkiv/cont-yes.mkiv'
+open source     > level 1, order 1, name '/home/farliz/context/tex/texmf-context/tex/context/base/mkiv/cont-yes.mkiv'
 system          > 
-system          > ConTeXt  ver: 2019.07.16 18:23 MKIV beta  fmt: 2019.7.18  int: english/english
+system          > ConTeXt  ver: 2018.07.27 19:12 MKIV beta  fmt: 2018.8.2  int: english/english
 system          > 
 system          > 'cont-new.mkiv' loaded
-open source     > level 2, order 2, name '/home/lizardo/context/tex/texmf-context/tex/context/base/mkiv/cont-new.mkiv'
+open source     > level 2, order 2, name '/home/farliz/context/tex/texmf-context/tex/context/base/mkiv/cont-new.mkiv'
 system          > beware: some patches loaded from cont-new.mkiv
-close source    > level 2, order 2, name '/home/lizardo/context/tex/texmf-context/tex/context/base/mkiv/cont-new.mkiv'
-
+close source    > level 2, order 2, name '/home/farliz/context/tex/texmf-context/tex/context/base/mkiv/cont-new.mkiv'
 system          > files > jobname 'main', input './main', result 'main'
 fonts           > latin modern fonts are not preloaded
 languages       > language 'en' is active
-open source     > level 2, order 3, name '/home/lizardo/Dropbox/Sensorcrop/main.tex'
+system          > synctex functionality is enabled, expect 5-10 pct runtime overhead!
+open source     > level 2, order 3, name '/home/farliz/Dropbox_utm/Dropbox/sensorcrop_et/main.tex'
 open source     > level 3, order 4, name 'farliz_garamondpro.tex'
 fonts           > preloading modern-designsize (math)
 fonts           > typescripts > unknown library 'modern-designsize'
@@ -19,537 +19,27 @@ fonts           > preloading modern-designsize (mono)
 fonts           > 'fallback modern-designsize tt 12pt' is loaded
 close source    > level 3, order 4, name 'farliz_garamondpro.tex'
 publications    > adding bib data to set 'default' from source 'ref.bib'
-interface       > macros > processed mkvi file '/home/lizardo/context/tex/texmf-context/tex/context/base/mkiv/publ-imp-apa.mkvi', delta 94
-interface       > macros > processed mkvi file '/home/lizardo/context/tex/texmf-context/tex/context/base/mkiv/publ-imp-apa.mkvi', delta 0
-open source     > level 3, order 5, name '/home/lizardo/context/tex/texmf-context/tex/context/base/mkiv/publ-imp-apa.mkvi'
-close source    > level 3, order 5, name '/home/lizardo/context/tex/texmf-context/tex/context/base/mkiv/publ-imp-apa.mkvi'
+interface       > macros > processed mkvi file '/home/farliz/context/tex/texmf-context/tex/context/base/mkiv/publ-imp-apa.mkvi', delta 94
+interface       > macros > processed mkvi file '/home/farliz/context/tex/texmf-context/tex/context/base/mkiv/publ-imp-apa.mkvi', delta 0
+open source     > level 3, order 5, name '/home/farliz/context/tex/texmf-context/tex/context/base/mkiv/publ-imp-apa.mkvi'
+close source    > level 3, order 5, name '/home/farliz/context/tex/texmf-context/tex/context/base/mkiv/publ-imp-apa.mkvi'
 layer           > unknown layer bground
 structure       > sectioning > subject @ level 3 : 0.0.0 -> Evapotranspiración y el Riego \thinrule 
-
-Overfull \hbox (3.77711pt too wide) in paragraph at lines 32--33
-[][]<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> La <4: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro-Bd @ 12.0pt> eva-po-ra-ción <1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> en el sue-lo es el pro-ce-so me-dian-te el cual el
-
-\hbox(8.57529+3.16626)x261.3012, direction TLT
-.\localpar
-..\localinterlinepenalty=0
-..\localbrokenpenalty=0
-..\localleftbox=null
-..\localrightbox=null
-.\hbox(0.0+0.0)x0.0, direction TLT
-.\latelua0 <function reference 793>
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> L
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> a
-.etc.
-
-
-Overfull \hbox (13.096pt too wide) in paragraph at lines 32--33
-<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> agua lí-qui-da se con-vier-te en va-por de agua y se eli-mi-na en for-
-
-\hbox(8.57529+3.32217)x261.3012, direction TLT
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> a
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> g
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> u
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> a
-.\glue(\spaceskip) 2.38669
-.etc.
-
 publications    > analyzing previous publication run for 'default'
-
-Overfull \hbox (4.97646pt too wide) in paragraph at lines 36--37
-[][]<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> La <4: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro-Bd @ 12.0pt> trans-pi-ra-ción <1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> con-sis-te en la va-po-ri-za-ción del agua lí-qui-
-
-\hbox(8.57529+3.32217)x261.3012, direction TLT
-.\localpar
-..\localinterlinepenalty=0
-..\localbrokenpenalty=0
-..\localleftbox=null
-..\localrightbox=null
-.\hbox(0.0+0.0)x0.0, direction TLT
-.\latelua0 <function reference 794>
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> L
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> a
-.etc.
-
-
-Overfull \hbox (4.95247pt too wide) in paragraph at lines 36--37
-<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> da con-te-ni-da en los te-ji-dos ve-ge-ta-les y la eli-mi-na-ción del va-
-
-\hbox(8.57529+3.32217)x261.3012, direction TLT
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> d
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> a
-.\glue(\spaceskip) 2.38669
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> c
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> o
-.etc.
-
-
-Overfull \hbox (4.92848pt too wide) in paragraph at lines 36--37
-<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> por a la at-mós-fe-ra. Los cul-ti-vos pier-den pre-do-mi-nan-te-men-
-
-\hbox(8.57529+3.16626)x261.3012, direction TLT
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> p
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> o
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> r
-.\glue(\spaceskip) 2.38669
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> a
-.etc.
-
-
-Overfull \hbox (0.43095pt too wide) in paragraph at lines 36--37
-<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> te su agua a tra-vés de los es-to-mas. Es-tas son pe-que-ñas aber-
-
-\hbox(8.57529+3.32217)x261.3012, direction TLT
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> t
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> e
-.\glue(\spaceskip) 2.38669
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> s
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> u
-.etc.
-
-
-Overfull \hbox (11.273pt too wide) in paragraph at lines 36--37
-<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> tu-ras en la ho-ja de la plan-ta a tra-vés de las cua-les pa-san los ga-
-
-\hbox(8.57529+3.32217)x261.3012, direction TLT
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> t
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> u
-.\discretionary (penalty 63) []
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> r
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> a
-.etc.
-
-
-Overfull \hbox (12.24446pt too wide) in paragraph at lines 40--41
-[][]<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> La su-ma de es-tas dos can-tia-des de agua eli-mi-na-das ha-cia la at-
-
-\hbox(8.57529+3.32217)x261.3012, direction TLT
-.\localpar
-..\localinterlinepenalty=0
-..\localbrokenpenalty=0
-..\localleftbox=null
-..\localrightbox=null
-.\hbox(0.0+0.0)x0.0, direction TLT
-.\latelua0 <function reference 795>
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> L
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> a
-.etc.
-
-
-Overfull \hbox (5.88795pt too wide) in paragraph at lines 40--41
-<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> mós-fe-ra se de-no-mi-na <4: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro-Bd @ 12.0pt> eva-po-trans-pi-ra-ción <1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> (ET), se mi-de en
-
-\hbox(8.88712+2.99835)x261.3012, direction TLT
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> m
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> ó
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> s
-.\discretionary (penalty 63) []
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> f
-.etc.
-
-
-Overfull \hbox (13.14796pt too wide) in paragraph at lines 40--41
-<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> mm dia[] y es un da-to cla-ve pa-ra la pro-gra-ma-ción del rie-go en
-
-\hbox(9.4297+3.6671)x261.3012, direction TLT
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> m
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> m
-.\glue(\spaceskip) 2.38669
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> d
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> i
-.etc.
-
 floatblocks     > '1' placed (here)
-
-Overfull \hbox (11.4409pt too wide) in paragraph at lines 52--53
-[][]<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> Se es-ti-ma la eva-po-trans-pi-ra-ción de re-fe-ren-cia (ETo) uti-li-zan-
-
-\hbox(8.88712+3.16626)x261.3012, direction TLT
-.\localpar
-..\localinterlinepenalty=0
-..\localbrokenpenalty=0
-..\localleftbox=null
-..\localrightbox=null
-.\hbox(0.0+0.0)x0.0, direction TLT
-.\latelua0 <function reference 806>
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> S
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> e
-.etc.
-
-
-Overfull \hbox (0.5269pt too wide) in paragraph at lines 52--53
-<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> do un <7: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro-It @ 12.0pt> cul-ti-vo <1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> de re-fe-ren-cia, que usual-men-te es el ces-ped. El
-
-\hbox(8.59927+3.22623)x261.3012, direction TLT
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> d
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> o
-.\glue(\spaceskip) 2.38669
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> u
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> n
-.etc.
-
-
-Overfull \hbox (11.40492pt too wide) in paragraph at lines 52--53
-<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> va-lor de ETo, es lue-go mo-di-fi-ca-do por un fac-tor de ajus-te lla-
-
-\hbox(8.57529+3.32217)x261.3012, direction TLT
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> v
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> a
-.\discretionary (penalty 63) []
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> l
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> o
-.etc.
-
-
-Overfull \hbox (5.9839pt too wide) in paragraph at lines 52--53
-<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> ma-do co-efi-cien-te de cul-ti-vo o <4: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro-Bd @ 12.0pt> Kc<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> , de-bi-do a que no to-dos los
-
-\hbox(8.57529+3.22623)x261.3012, direction TLT
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> m
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> a
-.\discretionary (penalty 63) []
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> d
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> o
-.etc.
-
-
-Overfull \hbox (0.64684pt too wide) in paragraph at lines 52--53
-<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> cul-ti-vos o plan-tas trans-pi-ran la mis-ma can-ti-dad de agua. El
-
-\hbox(8.57529+3.32217)x261.3012, direction TLT
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> c
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> u
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> l
-.\discretionary (penalty 63) []
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> t
-.etc.
-
-
-Overfull \hbox (4.83253pt too wide) in paragraph at lines 52--53
-<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> va-lor re-sul-tan-te se de-no-mi-na eva-po-tran-pi-ra-ción real o (ET-
-
-\hbox(8.88712+3.16626)x261.3012, direction TLT
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> v
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> a
-.\discretionary (penalty 63) []
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> l
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> o
-.etc.
-
-
-Overfull \hbox (17.4376pt too wide) in paragraph at lines 52--53
-<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> crop), que es <4: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro-Bd @ 12.0pt> la can-ti-dad de agua que se de-be re-po-ner al cul-
-
-\hbox(8.81516+3.22623)x261.3012, direction TLT
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> c
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> r
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> o
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> p
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> )
-.etc.
-
-
-Overfull \hbox (8.50252pt too wide) in paragraph at lines 52--53
-<4: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro-Bd @ 12.0pt> ti-vo<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> . En con-se-cuen-cia, <4: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro-Bd @ 12.0pt> si llue-ve<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> , par-te o to-da la ne-ce-si-dad de
-
-\hbox(8.57529+3.16626)x261.3012, direction TLT
-.<4: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro-Bd @ 12.0pt> t
-.<4: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro-Bd @ 12.0pt> i
-.\discretionary (penalty 63) []
-.<4: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro-Bd @ 12.0pt> v
-.<4: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro-Bd @ 12.0pt> o
-.etc.
-
-
-Overfull \hbox (16.46614pt too wide) in paragraph at lines 52--53
-<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> agua del cul-ti-vo se re-po-ne na-tu-ral-men-te, de lo con-tra-rio es ne-
-
-\hbox(8.57529+3.32217)x261.3012, direction TLT
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> a
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> g
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> u
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> a
-.\glue(\spaceskip) 2.38669
-.etc.
-
 structure       > sectioning > subject @ level 3 : 0.0.0 -> Objetivo \thinrule 
-
-Overfull \hbox (2.32591pt too wide) in paragraph at lines 56--57
-[][]<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> Im-ple-men-tar un sis-te-ma au-to-ma-ti-za-do y au-tó-no-mo pa-ra la
-
-\hbox(8.57529+3.16626)x261.3012, direction TLT
-.\localpar
-..\localinterlinepenalty=0
-..\localbrokenpenalty=0
-..\localleftbox=null
-..\localrightbox=null
-.\hbox(0.0+0.0)x0.0, direction TLT
-.\latelua0 <function reference 808>
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> I
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> m
-.etc.
-
-
-Overfull \hbox (11.03313pt too wide) in paragraph at lines 56--57
-<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> es-ti-ma-ción de la ET-crop en un cul-ti-vo agrí-co-la pa-ra de-ter-mi-
-
-\hbox(8.57529+3.32217)x261.3012, direction TLT
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> e
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> s
-.\discretionary (penalty 63) []
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> t
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> i
-.etc.
-
 structure       > sectioning > subject @ level 3 : 0.0.0 -> Metodología \thinrule 
-
-Overfull \hbox (15.14687pt too wide) in paragraph at lines 60--61
-[][]<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> Aquí va el es-que-ma y des-crip-ción de nues-tra so-lu-ción con Yu-
-
-\hbox(8.57529+3.22623)x261.3012, direction TLT
-.\localpar
-..\localinterlinepenalty=0
-..\localbrokenpenalty=0
-..\localleftbox=null
-..\localrightbox=null
-.\hbox(0.0+0.0)x0.0, direction TLT
-.\latelua0 <function reference 810>
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> A
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> q
-.etc.
-
-layouts         > gridmode, noflines: 59, textheight: 759.68863pt, textovershoot: 13.02267pt (maybe set number of lines instead)
-backend         > xmp > using file '/home/lizardo/context/tex/texmf-context/tex/context/base/mkiv/lpdf-pdx.xml'
+columns         > balanced in '137' step(s)
+backend         > xmp > using file '/home/farliz/context/tex/texmf-context/tex/context/base/mkiv/lpdf-pdx.xml'
 pages           > flushing realpage 1, userpage 1, subpage 1
 floatblocks     > '2' placed (here)
 structure       > sectioning > subject @ level 3 : 0.0.0 -> Solución y Alcance \thinrule 
-
-Overfull \hbox (5.13237pt too wide) in paragraph at lines 79--85
-[][]<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> El agua en el sue-lo de-be per-mi-tir va-rios pro-ce-sos en-tre ellos,
-
-\hbox(8.57529+3.32217)x261.3012, direction TLT
-.\localpar
-..\localinterlinepenalty=0
-..\localbrokenpenalty=0
-..\localleftbox=null
-..\localrightbox=null
-.\hbox(0.0+0.0)x0.0, direction TLT
-.\latelua0 <function reference 812>
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> E
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> l
-.etc.
-
-
-Overfull \hbox (3.41731pt too wide) in paragraph at lines 79--85
-<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> la di-so-lu-ción y trans-por-te de nu-trien-tes a la plan-ta, el in-ter-
-
-\hbox(8.57529+3.16626)x261.3012, direction TLT
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> l
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> a
-.\glue(\spaceskip) 2.38669
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> d
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> i
-.etc.
-
-
-Overfull \hbox (2.74568pt too wide) in paragraph at lines 79--85
-<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> cam-bio de ga-ses, re-gu-lar la tem-pe-ra-tu-ra y crear con-di-cio-nes
-
-\hbox(8.57529+3.32217)x261.3012, direction TLT
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> c
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> a
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> m
-.\discretionary (penalty 63) []
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> b
-.etc.
-
-
-Overfull \hbox (4.7126pt too wide) in paragraph at lines 79--85
-<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> pa-ra la ac-ti-vi-dad mi-cro-bia-na. Sin em-bar-go, el dé-fi-cit o el ex-
-
-\hbox(8.57529+3.32217)x261.3012, direction TLT
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> p
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> a
-.\discretionary (penalty 63) []
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> r
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> a
-.etc.
-
-
-Overfull \hbox (3.96901pt too wide) in paragraph at lines 79--85
-<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> ce-so de agua en el sue-lo con-lle-va a afec-ta-cio-nes im-por-tan-tes
-
-\hbox(8.57529+3.32217)x261.3012, direction TLT
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> c
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> e
-.\discretionary (penalty 63) []
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> s
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> o
-.etc.
-
-
-Overfull \hbox (10.51741pt too wide) in paragraph at lines 88--93
-[][]<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> El ex-ce-so de agua en el sue-lo pro-vo-ca un ti-po de es-trés se-cun-
-
-\hbox(8.57529+3.32217)x261.3012, direction TLT
-.\localpar
-..\localinterlinepenalty=0
-..\localbrokenpenalty=0
-..\localleftbox=null
-..\localrightbox=null
-.\hbox(0.0+0.0)x0.0, direction TLT
-.\latelua0 <function reference 798>
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> E
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> l
-.etc.
-
-
-Overfull \hbox (3.78911pt too wide) in paragraph at lines 88--93
-<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> da-rio lla-ma-do <4: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro-Bd @ 12.0pt> hi-po-xia <1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> que afec-ta su ca-pa-ci-dad pa-ra apor-tar
-
-\hbox(8.57529+3.22623)x261.3012, direction TLT
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> d
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> a
-.\discretionary (penalty 63) []
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> r
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> i
-.etc.
-
-
-Overfull \hbox (2.14601pt too wide) in paragraph at lines 88--93
-<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> O[] a las raí-ces afec-tan-do su cre-ci-mien-to y pro-vo-ca cam-bios
-
-\hbox(9.4297+3.6671)x261.3012, direction TLT
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> O
-.\kern0.0
-.\hbox(9.4297+3.6671)x4.85733, direction TLT
-..\hbox(6.30653+0.03998)x4.85733, shifted 2.24513, direction TLT
-...<6: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 10.0pt> 2
-.\glue(\spaceskip) 2.38669
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> a
-.etc.
-
-
-Overfull \hbox (11.0811pt too wide) in paragraph at lines 88--93
-<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> fi-sio-ló-gi-cos en las plan-tas. Ade-más el ex-ce-so de agua pro-mue-
-
-\hbox(8.57529+3.32217)x261.3012, direction TLT
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> f
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> i
-.\discretionary (penalty 63) []
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> s
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> i
-.etc.
-
-
-Overfull \hbox (0.14311pt too wide) in paragraph at lines 88--93
-<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> ve el cre-ci-mien-to de hon-gos y ata-que de pla-gas en los cul-ti-
-
-\hbox(8.57529+3.32217)x261.3012, direction TLT
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> v
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> e
-.\glue(\spaceskip) 2.38669
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> e
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> l
-.etc.
-
-
-Overfull \hbox (11.12907pt too wide) in paragraph at lines 96--101
-[][]<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> El es-trés hí-dri-co su-ce-de cuan-do la de-man-da de agua es ma-yor
-
-\hbox(8.57529+3.32217)x261.3012, direction TLT
-.\localpar
-..\localinterlinepenalty=0
-..\localbrokenpenalty=0
-..\localleftbox=null
-..\localrightbox=null
-.\hbox(0.0+0.0)x0.0, direction TLT
-.\latelua0 <function reference 795>
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> E
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> l
-.etc.
-
-
-Overfull \hbox (2.58977pt too wide) in paragraph at lines 96--101
-<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> a la dis-po-ni-ble en el sue-lo en un pe-rio-do de tiem-po. Es-te ti-
-
-\hbox(8.57529+3.16626)x261.3012, direction TLT
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> a
-.\glue(\spaceskip) 2.38669
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> l
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> a
-.\glue(\spaceskip) 2.38669
-.etc.
-
-
-Overfull \hbox (13.16795pt too wide) in paragraph at lines 96--101
-<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> po de es-trés tie-ne afec-ta-cio-nes di-rec-tas al cul-ti-vo co-mo re-duc-
-
-\hbox(8.57529+3.16626)x261.3012, direction TLT
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> p
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> o
-.\glue(\spaceskip) 2.38669
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> d
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> e
-.etc.
-
-
-Overfull \hbox (7.95082pt too wide) in paragraph at lines 96--101
-<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> ción del cre-ci-mien-to, cie-rre de los es-to-mas de las ho-jas, la ac-
-
-\hbox(8.57529+3.2622)x261.3012, direction TLT
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> c
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> i
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> ó
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> n
-.\glue(\spaceskip) 2.38669
-.etc.
-
-
-Overfull \hbox (11.65678pt too wide) in paragraph at lines 96--101
-<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> ti-vi-dad fo-to-sin-té-ti-ca dis-mi-nu-ye o se de-tie-ne, fal-ta de nu-trien-
-
-\hbox(8.57529+3.0943)x261.3012, direction TLT
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> t
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> i
-.\discretionary (penalty 63) []
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> v
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> i
-.etc.
-
-
-Overfull \hbox (15.90245pt too wide) in paragraph at lines 104--107
-[][]<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> Es-tos ti-pos de es-trés tie-nen una in-ci-den-cia ne-ga-ti-va en el desa-
-
-\hbox(8.57529+3.32217)x261.3012, direction TLT
-.\localpar
-..\localinterlinepenalty=0
-..\localbrokenpenalty=0
-..\localleftbox=null
-..\localrightbox=null
-.\hbox(0.0+0.0)x0.0, direction TLT
-.\latelua0 <function reference 834>
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> E
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> s
-.etc.
-
-
-Overfull \hbox (15.42271pt too wide) in paragraph at lines 104--107
-<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> rro-llo y pro-duc-ción de los cul-ti-vos, oca-sio-nan-do pér-di-das eco-
-
-\hbox(8.57529+3.16626)x261.3012, direction TLT
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> r
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> r
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> o
-.\discretionary (penalty 63) []
-.<1: /home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro @ 12.0pt> l
-.etc.
-
 structure       > sectioning > subject @ level 3 : 0.0.0 -> Referencias
 publications    > list > collecting entries using method 'global' and sort order 'authoryear'
-pages           > flushing realpage 2, userpage 2, subpage 2
-pages           > flushing realpage 3, userpage 3, subpage 3
-close source    > level 2, order 5, name '/home/lizardo/Dropbox/Sensorcrop/main.tex'
-close source    > level 1, order 5, name '/home/lizardo/context/tex/texmf-context/tex/context/base/mkiv/cont-yes.mkiv'
+columns         > balanced in '95' step(s)
+pages           > flushing realpage 2, userpage 2
+close source    > level 2, order 5, name '/home/farliz/Dropbox_utm/Dropbox/sensorcrop_et/main.tex'
+close source    > level 1, order 5, name '/home/farliz/context/tex/texmf-context/tex/context/base/mkiv/cont-yes.mkiv'
 
 system          > start used files
 
@@ -560,44 +50,41 @@ system          > stop used files
 
 system          > start used files
 
-system          >    1: filename=char-prv.lua filetype=tex format=tex foundname=/home/lizardo/context/tex/texmf-context/tex/context/base/mkiv/char-prv.lua fullname=/home/lizardo/context/tex/texmf-context/tex/context/base/mkiv/char-prv.lua usedmethod=database
-system          >    2: filename=cont-yes.mkiv filetype=tex foundname=/home/lizardo/context/tex/texmf-context/tex/context/base/mkiv/cont-yes.mkiv fullname=/home/lizardo/context/tex/texmf-context/tex/context/base/mkiv/cont-yes.mkiv usedmethod=database
-system          >    3: filename=publ-imp-default.lua filetype=scripts foundname=/home/lizardo/context/tex/texmf-context/tex/context/base/mkiv/publ-imp-default.lua fullname=/home/lizardo/context/tex/texmf-context/tex/context/base/mkiv/publ-imp-default.lua usedmethod=database
-system          >    4: filename=cont-new.mkiv filetype=tex foundname=/home/lizardo/context/tex/texmf-context/tex/context/base/mkiv/cont-new.mkiv fullname=/home/lizardo/context/tex/texmf-context/tex/context/base/mkiv/cont-new.mkiv usedmethod=database
-system          >    5: filename=lang-exc.lua filetype=scripts foundname=/home/lizardo/context/tex/texmf-context/tex/context/base/mkiv/lang-exc.lua fullname=/home/lizardo/context/tex/texmf-context/tex/context/base/mkiv/lang-exc.lua usedmethod=database
-system          >    6: filename=lang-us.lua filetype=scripts foundname=/home/lizardo/context/tex/texmf-context/tex/context/patterns/mkiv/lang-us.lua fullname=/home/lizardo/context/tex/texmf-context/tex/context/patterns/mkiv/lang-us.lua usedmethod=database
-system          >    7: filename=/home/lizardo/Dropbox/Sensorcrop/main.tex foundname=/home/lizardo/Dropbox/Sensorcrop/main.tex fullname=/home/lizardo/Dropbox/Sensorcrop/main.tex usedmethod=direct
-system          >    8: filename=farliz_garamondpro filetype=tex foundname=farliz_garamondpro.tex fullname=/home/lizardo/Dropbox/Sensorcrop/farliz_garamondpro.tex usedmethod=filesystem
-system          >    9: filename=lang-es.lua filetype=scripts foundname=/home/lizardo/context/tex/texmf-context/tex/context/patterns/mkiv/lang-es.lua fullname=/home/lizardo/context/tex/texmf-context/tex/context/patterns/mkiv/lang-es.lua usedmethod=database
-system          >   10: filename=/home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro.otf format=otf foundname=/home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro.otf fullname=/home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro.otf usedmethod=direct
-system          >   11: filename=ref filetype=bib format=bib foundname=ref.bib fullname=/home/lizardo/Dropbox/Sensorcrop/ref.bib usedmethod=filesystem
-system          >   12: filename=publ-imp-apa.mkvi filetype=tex foundname=/home/lizardo/context/tex/texmf-context/tex/context/base/mkiv/publ-imp-apa.mkvi fullname=/home/lizardo/context/tex/texmf-context/tex/context/base/mkiv/publ-imp-apa.mkvi usedmethod=database
-system          >   13: filename=publ-imp-apa.lua filetype=scripts foundname=/home/lizardo/context/tex/texmf-context/tex/context/base/mkiv/publ-imp-apa.lua fullname=/home/lizardo/context/tex/texmf-context/tex/context/base/mkiv/publ-imp-apa.lua usedmethod=database
-system          >   14: filename=/home/lizardo/Dropbox/Sensorcrop/bg1.png format=tex foundname=/home/lizardo/Dropbox/Sensorcrop/bg1.png fullname=/home/lizardo/Dropbox/Sensorcrop/bg1.png usedmethod=direct
-system          >   15: filename=/home/lizardo/Dropbox/Sensorcrop/sc.jpeg format=tex foundname=/home/lizardo/Dropbox/Sensorcrop/sc.jpeg fullname=/home/lizardo/Dropbox/Sensorcrop/sc.jpeg usedmethod=direct
-system          >   16: filename=/home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro-Bd.otf format=otf foundname=/home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro-Bd.otf fullname=/home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro-Bd.otf usedmethod=direct
-system          >   17: filename=/home/lizardo/Dropbox/Sensorcrop/yubox.png format=tex foundname=/home/lizardo/Dropbox/Sensorcrop/yubox.png fullname=/home/lizardo/Dropbox/Sensorcrop/yubox.png usedmethod=direct
-system          >   18: filename=/home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro-It.otf format=otf foundname=/home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro-It.otf fullname=/home/lizardo/.fonts/Garamond_Premier_Pro/GaramondPremrPro-It.otf usedmethod=direct
-system          >   19: filename=/home/lizardo/Dropbox/Sensorcrop/et.jpg format=tex foundname=/home/lizardo/Dropbox/Sensorcrop/et.jpg fullname=/home/lizardo/Dropbox/Sensorcrop/et.jpg usedmethod=direct
-system          >   20: filename=lpdf-pdx.xml filetype=tex foundname=/home/lizardo/context/tex/texmf-context/tex/context/base/mkiv/lpdf-pdx.xml fullname=/home/lizardo/context/tex/texmf-context/tex/context/base/mkiv/lpdf-pdx.xml usedmethod=database
-system          >   21: filename=/home/lizardo/Dropbox/Sensorcrop/water.jpg format=tex foundname=/home/lizardo/Dropbox/Sensorcrop/water.jpg fullname=/home/lizardo/Dropbox/Sensorcrop/water.jpg usedmethod=direct
-system          >   22: filename=/home/lizardo/.fonts/FiraSans/FiraSans-Regular.otf format=otf foundname=/home/lizardo/.fonts/FiraSans/FiraSans-Regular.otf fullname=/home/lizardo/.fonts/FiraSans/FiraSans-Regular.otf usedmethod=direct
-system          >   23: filename=/home/lizardo/.fonts/FiraSans/FiraSans-Bold.otf format=otf foundname=/home/lizardo/.fonts/FiraSans/FiraSans-Bold.otf fullname=/home/lizardo/.fonts/FiraSans/FiraSans-Bold.otf usedmethod=direct
+system          >    1: filename=char-prv.lua filetype=tex format=tex foundname=/home/farliz/context/tex/texmf-context/tex/context/base/mkiv/char-prv.lua fullname=/home/farliz/context/tex/texmf-context/tex/context/base/mkiv/char-prv.lua usedmethod=database
+system          >    2: filename=cont-yes.mkiv filetype=tex foundname=/home/farliz/context/tex/texmf-context/tex/context/base/mkiv/cont-yes.mkiv fullname=/home/farliz/context/tex/texmf-context/tex/context/base/mkiv/cont-yes.mkiv usedmethod=database
+system          >    3: filename=publ-imp-default.lua filetype=scripts foundname=/home/farliz/context/tex/texmf-context/tex/context/base/mkiv/publ-imp-default.lua fullname=/home/farliz/context/tex/texmf-context/tex/context/base/mkiv/publ-imp-default.lua usedmethod=database
+system          >    4: filename=cont-new.mkiv filetype=tex foundname=/home/farliz/context/tex/texmf-context/tex/context/base/mkiv/cont-new.mkiv fullname=/home/farliz/context/tex/texmf-context/tex/context/base/mkiv/cont-new.mkiv usedmethod=database
+system          >    5: filename=lang-exc.lua filetype=scripts foundname=/home/farliz/context/tex/texmf-context/tex/context/base/mkiv/lang-exc.lua fullname=/home/farliz/context/tex/texmf-context/tex/context/base/mkiv/lang-exc.lua usedmethod=database
+system          >    6: filename=lang-us.lua filetype=scripts foundname=/home/farliz/context/tex/texmf-context/tex/context/patterns/mkiv/lang-us.lua fullname=/home/farliz/context/tex/texmf-context/tex/context/patterns/mkiv/lang-us.lua usedmethod=database
+system          >    7: filename=/home/farliz/Dropbox_utm/Dropbox/sensorcrop_et/main.tex foundname=/home/farliz/Dropbox_utm/Dropbox/sensorcrop_et/main.tex fullname=/home/farliz/Dropbox_utm/Dropbox/sensorcrop_et/main.tex usedmethod=direct
+system          >    8: filename=farliz_garamondpro filetype=tex foundname=farliz_garamondpro.tex fullname=/home/farliz/Dropbox_utm/Dropbox/sensorcrop_et/farliz_garamondpro.tex usedmethod=filesystem
+system          >    9: filename=lang-es.lua filetype=scripts foundname=/home/farliz/context/tex/texmf-context/tex/context/patterns/mkiv/lang-es.lua fullname=/home/farliz/context/tex/texmf-context/tex/context/patterns/mkiv/lang-es.lua usedmethod=database
+system          >   10: filename=/home/farliz/.fonts/Garamond_Premier_Pro/GaramondPremrPro.otf format=otf foundname=/home/farliz/.fonts/Garamond_Premier_Pro/GaramondPremrPro.otf fullname=/home/farliz/.fonts/Garamond_Premier_Pro/GaramondPremrPro.otf usedmethod=direct
+system          >   11: filename=ref filetype=bib format=bib foundname=ref.bib fullname=/home/farliz/Dropbox_utm/Dropbox/sensorcrop_et/ref.bib usedmethod=filesystem
+system          >   12: filename=publ-imp-apa.mkvi filetype=tex foundname=/home/farliz/context/tex/texmf-context/tex/context/base/mkiv/publ-imp-apa.mkvi fullname=/home/farliz/context/tex/texmf-context/tex/context/base/mkiv/publ-imp-apa.mkvi usedmethod=database
+system          >   13: filename=publ-imp-apa.lua filetype=scripts foundname=/home/farliz/context/tex/texmf-context/tex/context/base/mkiv/publ-imp-apa.lua fullname=/home/farliz/context/tex/texmf-context/tex/context/base/mkiv/publ-imp-apa.lua usedmethod=database
+system          >   14: filename=/home/farliz/Dropbox_utm/Dropbox/sensorcrop_et/img/sc.jpeg format=tex foundname=/home/farliz/Dropbox_utm/Dropbox/sensorcrop_et/img/sc.jpeg fullname=/home/farliz/Dropbox_utm/Dropbox/sensorcrop_et/img/sc.jpeg usedmethod=direct
+system          >   15: filename=/home/farliz/.fonts/Garamond_Premier_Pro/GaramondPremrPro-Bd.otf format=otf foundname=/home/farliz/.fonts/Garamond_Premier_Pro/GaramondPremrPro-Bd.otf fullname=/home/farliz/.fonts/Garamond_Premier_Pro/GaramondPremrPro-Bd.otf usedmethod=direct
+system          >   16: filename=/home/farliz/Dropbox_utm/Dropbox/sensorcrop_et/img/yubox.png format=tex foundname=/home/farliz/Dropbox_utm/Dropbox/sensorcrop_et/img/yubox.png fullname=/home/farliz/Dropbox_utm/Dropbox/sensorcrop_et/img/yubox.png usedmethod=direct
+system          >   17: filename=/home/farliz/.fonts/Garamond_Premier_Pro/GaramondPremrPro-It.otf format=otf foundname=/home/farliz/.fonts/Garamond_Premier_Pro/GaramondPremrPro-It.otf fullname=/home/farliz/.fonts/Garamond_Premier_Pro/GaramondPremrPro-It.otf usedmethod=direct
+system          >   18: filename=/home/farliz/Dropbox_utm/Dropbox/sensorcrop_et/img/et.jpg format=tex foundname=/home/farliz/Dropbox_utm/Dropbox/sensorcrop_et/img/et.jpg fullname=/home/farliz/Dropbox_utm/Dropbox/sensorcrop_et/img/et.jpg usedmethod=direct
+system          >   19: filename=lpdf-pdx.xml filetype=tex foundname=/home/farliz/context/tex/texmf-context/tex/context/base/mkiv/lpdf-pdx.xml fullname=/home/farliz/context/tex/texmf-context/tex/context/base/mkiv/lpdf-pdx.xml usedmethod=database
+system          >   20: filename=/home/farliz/Dropbox_utm/Dropbox/sensorcrop_et/img/water.jpg format=tex foundname=/home/farliz/Dropbox_utm/Dropbox/sensorcrop_et/img/water.jpg fullname=/home/farliz/Dropbox_utm/Dropbox/sensorcrop_et/img/water.jpg usedmethod=direct
+system          >   21: filename=/home/farliz/.fonts/FiraSans/FiraSans-Regular.otf format=otf foundname=/home/farliz/.fonts/FiraSans/FiraSans-Regular.otf fullname=/home/farliz/.fonts/FiraSans/FiraSans-Regular.otf usedmethod=direct
+system          >   22: filename=/home/farliz/.fonts/FiraSans/FiraSans-Bold.otf format=otf foundname=/home/farliz/.fonts/FiraSans/FiraSans-Bold.otf fullname=/home/farliz/.fonts/FiraSans/FiraSans-Bold.otf usedmethod=direct
 
 system          > stop used files
 
 
 system          > start commandline options
 
-system          > currentrun="1"
+system          > currentrun="3"
 system          > fulljobname="./main.tex"
 system          > input="./main.tex"
-system          > kindofrun="3"
-system          > maxnofruns="1"
-system          > nonstopmode="true"
-system          > once="true"
-system          > texmfbinpath="/home/lizardo/context/tex/texmf-linux-64/bin"
-system          > texutil="true"
+system          > kindofrun="2"
+system          > maxnofruns="9"
+system          > no-parse-first-line="true"
+system          > synctex="true"
 
 system          > stop commandline options
 
@@ -616,30 +103,31 @@ modules         > stop used modules
 
 
 mkiv lua stats  > used config file: selfautoparent:/texmf/web2c/texmfcnf.lua
-mkiv lua stats  > used cache path: /home/lizardo/context/tex/texmf-cache/luatex-cache/context/5fe67e0bfe781ce0dde776fb1556f32e
-mkiv lua stats  > resource resolver: loadtime 0.005 seconds, 0 scans with scantime 0.000 seconds, 0 shared scans, 23 found files, scanned paths: <none>
-mkiv lua stats  > stored bytecode data: 447 modules (0.172 sec), 93 tables (0.010 sec), 540 chunks (0.182 sec)
-mkiv lua stats  > traced context: maxstack: 1379, freed: 0, unreachable: 1379
-mkiv lua stats  > cleaned up reserved nodes: 57 nodes, 10 lists of 442
-mkiv lua stats  > node memory usage: 1 glue, 3 kern, 2 penalty, 16 attribute, 52 glue_spec, 4 attribute_list, 2 temp, 2 user_defined, 8 pdf_setmatrix, 4 pdf_save, 4 pdf_restore
-mkiv lua stats  > node list callback tasks: 8 unique task lists, 9 instances (re)created, 685 calls
-mkiv lua stats  > driver time: 0.012 seconds 
+mkiv lua stats  > used cache path: /home/farliz/context/tex/texmf-cache/luatex-cache/context/5fe67e0bfe781ce0dde776fb1556f32e
+mkiv lua stats  > resource resolver: loadtime 0.010 seconds, 0 scans with scantime 0.000 seconds, 0 shared scans, 22 found files, scanned paths: <none>
+mkiv lua stats  > stored bytecode data: 429 modules (0.276 sec), 93 tables (0.016 sec), 522 chunks (0.292 sec)
+mkiv lua stats  > traced context: maxstack: 1343, freed: 2, unreachable: 1341
+mkiv lua stats  > cleaned up reserved nodes: 62 nodes, 10 lists of 464
+mkiv lua stats  > node memory usage: 5 glue, 2 kern, 6 penalty, 41 attribute, 51 glue_spec, 10 attribute_list, 2 temp, 2 user_defined, 8 pdf_setmatrix, 4 pdf_save, 4 pdf_restore
+mkiv lua stats  > node list callback tasks: 8 unique task lists, 8 instances (re)created, 2161 calls
+mkiv lua stats  > synctex tracing: 3 referenced files, 5 files ignored, 215 objects flushed, logfile: main.synctex
 mkiv lua stats  > used backend: pdf (backend for directly generating pdf output)
 mkiv lua stats  > jobdata time: 0.002 seconds saving, 0.001 seconds loading
-mkiv lua stats  > callbacks: internal: 1619, file: 2043, direct: 12, late: 73, function 1331, total: 5078 (2539 per page)
-mkiv lua stats  > randomizer: resumed with value 0.97518568579108
-mkiv lua stats  > positions: 19 collected, 17 regular, 2 special
-mkiv lua stats  > result saved in file: main.pdf, compresslevel 3, objectcompresslevel 1
-mkiv lua stats  > loaded patterns: en::1 es::56, load time: 0.000
-mkiv lua stats  > interactive elements: 7 references, 9 destinations
+mkiv lua stats  > callbacks: internal: 2966, file: 2021, direct: 12, late: 258, function 1285, total: 6542 (6542 per page)
+mkiv lua stats  > randomizer: resumed with value 0.7600672096014
+mkiv lua stats  > positions: 4 collected, 2 regular, 2 special
+mkiv lua stats  > v-node processing time: 0.042 seconds 
+mkiv lua stats  > loaded patterns: en::2 es::55, load time: 0.000
+mkiv lua stats  > interactive elements: 8 references, 9 destinations
+mkiv lua stats  > result saved in file: main.pdf, compresslevel 3, objectcompresslevel 3
 mkiv lua stats  > loaded fonts: 5 files: firasans-bold.otf, firasans-regular.otf, garamondpremrpro-bd.otf, garamondpremrpro-it.otf, garamondpremrpro.otf
-mkiv lua stats  > font engine: otf 3.108, afm 1.513, tfm 1.000, 11 instances, 6 shared in backend, 0 common vectors, 6 common hashes, load time 0.170 seconds 
-mkiv lua stats  > graphics processing time: 0.006 seconds including tex, 9 processed images, 5 unique asked, 0 bad names
+mkiv lua stats  > font engine: otf 3.104, afm 1.513, tfm 1.000, 12 instances, 7 shared in backend, 0 common vectors, 7 common hashes, load time 0.281 seconds 
+mkiv lua stats  > graphics processing time: 0.018 seconds including tex, 9 processed images, 5 unique asked, 0 bad names
 mkiv lua stats  > publications load time: 0.001 seconds, 780 bytes, 2 definitions, 0 shortcuts
-mkiv lua stats  > pdf annotations: 7 links (7 unique), 0 special
+mkiv lua stats  > pdf annotations: 8 links (8 unique), 0 special
 mkiv lua stats  > used platform: linux-64, type: unix, binary subtree: texmf-linux-64
-mkiv lua stats  > used engine: luatex version 1.101 with functionality level 7138, banner: this is luatex, version 1.10.1 (tex live 2019)
-mkiv lua stats  > control sequences: 45972 of 65536 + 100000
-mkiv lua stats  > lua properties: engine: lua 5.3, used memory: 125 MB, ctx: 126 MB, max: unknown MB), hash chars: min(64,40), symbol mask: utf (τεχ)
-mkiv lua stats  > runtime: 0.581 seconds, 3 processed pages, 3 shipped pages, 5.164 pages/second
+mkiv lua stats  > used engine: luatex version 1.08 with functionality level 6731, banner: this is luatex, version 1.08.0 (tex live 2018)
+mkiv lua stats  > control sequences: 47068 of 65536 + 100000
+mkiv lua stats  > lua properties: engine: lua 5.3, used memory: 112 MB (ctx: 112 MB), hash type: lua, hash chars: min(64,40), symbol mask: utf (τεχ)
+mkiv lua stats  > runtime: 1.304 seconds, 2 processed pages, 2 shipped pages, 1.534 pages/second
 
