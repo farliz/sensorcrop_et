@@ -1,0 +1,70 @@
+\setuplayout [width=fit,
+              rightmargin=0cm, %1.5cm,%0.135\paperwidth,
+              %rightmargin=31cm,
+              leftmargin=0pt,
+              leftmargindistance=0pt,
+              rightmargindistance=0pt,
+              height=fit, 
+              header=1cm, 
+              footer=1cm, 
+              topspace=.5cm, 
+              backspace=1cm,%31cm,
+              %backspace=1.5cm,
+%              cutspace=1.5cm, 
+              bottomspace=0pt,
+              location=singlesided]
+
+
+\setuppagenumbering[state=stop]
+
+\setuptolerance [tolerant]
+
+
+% Enable Unicode fonts
+
+\mainlanguage[es]
+
+\enableregime[utf]
+
+% Enable Capital Letter use
+\setupcapitals[sc=yes]
+
+% Define a script named [serif][nimbus]
+\starttypescript [serif] [garamondpro]
+  \definefontsynonym [Serif]             [name:GaramondPremrPro]
+  \definefontsynonym [SerifBold]         [name:GaramondPremrPro-Bd]
+  \definefontsynonym [SerifItalic]       [name:GaramondPremrPro-It]
+  \definefontsynonym [SerifSlanted]      [name:GaramondPremrPro-It]
+  \definefontsynonym [SerifBoldItalic]   [name:GaramondPremrPro-BdIt]
+  \definefontsynonym [SerifBoldSlanted]  [name:GaramondPremrPro-BdIt]
+\stoptypescript
+
+% Define a second script named [sans][nimbus]
+\starttypescript [sans] [garamondpro]
+  \definefontsynonym [Sans]             [name:FiraSans-Regular]
+  \definefontsynonym [SansBold]         [name:FiraSans-Bold]
+  \definefontsynonym [SansItalic]       [name:FiraSans-Italic]
+  \definefontsynonym [SansSlanted]      [name:FiraSans-Italic]
+  \definefontsynonym [SansBoldItalic]   [name:FiraSans-BoldItalic]
+  \definefontsynonym [SansBoldSlanted]  [name:FiraSans-BoldItalic]
+\stoptypescript
+
+% Define the typeface nimbus; use serif for rm-fonts, sans serif for ss-fonts.
+\definetypeface [garamondpro]  [rm]  [serif] [garamondpro]
+\definetypeface [garamondpro]  [ss]  [sans]  [garamondpro]
+
+% Indicate the typeface to use.
+\usetypescript[garamondpro][ec]
+
+\setupbodyfont[garamondpro,rm,12pt]
+
+\definecolor[mgreen][x=5A9F2B]
+%\setupbackgrounds[page][background=color, backgroundcolor=mgreen]
+\setuphead[title][style=\bfc]
+
+\setuphead[subject][style=\bfb]
+
+\setupTABLE[frame=off]
+\setupalign[flushleft]
+
+

@@ -1,0 +1,141 @@
+\input farliz_garamondpro
+
+\setupinteraction[state=start,color=mgreen,contrastcolor=]
+
+%\definelayer[bground][x=0mm, y=0mm, width=\paperwidth, height=\paperheight] 
+%\setupbackgrounds[page][background={bground}]
+
+\setupheadertexts[i3lab][\#Innovación Yubox]
+\usebtxdataset[ref]
+\usebtxdefinitions[apa]
+\setupbtx[apa:cite]
+[etallimit=3, etaldisplay=1]
+
+
+\starttext
+
+\setlayer[bground]{\externalfigure[bg1]}
+\blackrule[height=2pt, color=mgreen, width=\textwidth]
+\blank[big]
+\bTABLE
+\bTR\bTD[width=14cm] \externalfigure[sc][width=7cm]\eTD \bTD {\bf Equipo Técnico}  \eTD\eTR
+\bTR\bTD \externalfigure[yubox][width=6cm]\eTD \bTD  Gabriel Morejón\\Wendy Obregón\\Lizardo Reyna\\Joffre Moreira  \eTD\eTR
+\eTABLE
+%\blank[1cm]
+
+\blackrule[height=2pt, color=mgreen, width=\textwidth]
+\blank[big]
+\startcolumns
+
+\subject{Evapotranspiración y el Riego \thinrule}
+
+La {\bf evaporación} en el suelo es el proceso mediante el cual el agua líquida se convierte en vapor de agua y se elimina en forma de vapor hacia la atmósfera. 
+
+\blank[big]
+
+La {\bf transpiración} consiste en la vaporización del agua líquida contenida en los tejidos vegetales y la eliminación del vapor a la atmósfera. Los cultivos pierden predominantemente su agua a través de los estomas. Estas son pequeñas aberturas en la hoja de la planta a través de las cuales pasan los gases y el vapor de agua \cite[authoryear][fao,PEREIRA20154]. 
+
+\blank[big]
+
+La suma de estas dos cantiades de agua eliminadas hacia la atmósfera se denomina {\bf evapotranspiración} (ET), se mide en mm dia\high{-1} y es un dato clave para la programación del riego en un cultivo (Figura 1).
+
+
+\blank[big]
+\startframedtext[width=\textwidth, framecorner=round]
+  {\bf Problema:}\\
+En nuestro contexto agrícola, son escasos los agricultores y técnicos que utilizan este parámetro para reponer la cantidad de agua necesaria para el cultivo (regar). En su lugar, la práctica del {\em riego} se limita a proveer de agua a un cultivo sin conocimiento previo de las neceisades reales, resultando en la mayoría de los casos, una {\bf aplicación excesiva} de agua en el suelo.
+\stopframedtext
+\placefigure[][]{Evapotranspiracion}{\externalfigure[et][width=.9\textwidth]}
+
+%\subject{Estimación de la ET}
+
+Se estima la evapotranspiración de referencia (ETo) utilizando un {\em cultivo} de referencia, que usualmente es el cesped. El valor de ETo, es luego modificado por un factor de ajuste llamado coeficiente de cultivo o {\bf Kc}, debido a que no todos los cultivos o plantas transpiran la misma cantidad de agua. El valor resultante se denomina evapotranpiración real o (ETcrop), que es {\bf la cantidad de agua que se debe reponer al cultivo}. En consecuencia, {\bf si llueve}, parte o toda la necesidad de agua del cultivo se repone naturalmente, de lo contrario es necesario programar un riego. 
+
+\subject{Objetivo \thinrule}
+
+Implementar un sistema automatizado y autónomo para la estimación de la ETcrop en un cultivo agrícola para determinar las necesidades de agua.
+
+\subject{Metodología \thinrule}
+
+Aquí va el esquema y descripción de nuestra solución con Yubox y AGRO
+
+
+\stopcolumns
+
+\placefigure[][water]{Esquema del contenido de agua en el
+  suelo. {\bf Saturación}. Es el exceso de agua en el suelo, los poros
+del suelo están completamente ocupados por agua sin dejar espacio para
+el intercambio de gases y otras funciones importantes para el
+desarrollo de los cultivos. {\bf Capacidad de campo}. Es la cantidad
+óptima de agua en el suelo donde los cultivos pueden desarrollarse y
+producir con mayor eficiencia. {\bf Punto de marchitez
+  permanente}. Sucede cuando el nivel de agua en el suelo ha sido muy
+baja por un periodo prologado que la planta yo no es capaz de
+recuperarse}{\externalfigure [water][width=.9\textwidth]}
+
+\startcolumns
+\subject{Solución y Alcance \thinrule}
+
+El agua en el suelo debe permitir varios procesos entre ellos, la
+disolución y transporte de nutrientes a la planta, el intercambio de
+gases, regular la temperatura y crear condiciones para la actividad
+microbiana. Sin embargo, el déficit o el exceso de agua en el suelo
+conlleva a afectaciones importantes en el desarrollo y productividad
+de los cultivos (\in{Fig.}[water]).
+
+\blank[big]
+
+El exceso de agua en el suelo provoca un tipo de estrés secundario
+llamado {\bf hipoxia} que afecta su capacidad para aportar O\low{2}
+a las raíces afectando su crecimiento y provoca cambios fisiológicos
+en las plantas. Además el exceso de agua promueve el crecimiento de
+hongos y ataque de plagas en los cultivos.
+
+\blank[big]
+
+El estrés hídrico sucede cuando la demanda de agua es mayor a la
+disponible en el suelo en un periodo de tiempo. Este tipo de estrés
+tiene afectaciones directas al cultivo como reducción del crecimiento,
+cierre de los estomas de las hojas, la actividad fotosintética
+disminuye o se detiene, falta de nutrientes.
+
+\blank[big]
+
+Estos tipos de estrés tienen una incidencia negativa en el desarrollo
+y producción  de los cultivos, ocasionando pérdidas económicas
+importantes al agricultor.
+
+
+
+\startframedtext[width=\textwidth, framecorner=round,
+  foregroundcolor=white, background=color, backgroundcolor=mgreen,
+  style=\ss, frame=off]
+{\bf Solución:}\\
+
+\# SENSOR{\bf CROP} es la alternativa que soluciona el problema del
+agua en el suelo. Este dispositivo estima de forma automática y
+autónoma, la cantidad de agua que hay que reponer en el suelo para
+suministrarla en un riego programado. Así controlaremos técnicamente
+el riego de los cultivos garantizando un óptima producción.
+\stopframedtext
+
+\startframedtext[width=\textwidth, framecorner=round]
+{\bf Impacto:}\\
+  Con el manejo apropiado del riego, se evitan los efectos negativos en
+  los cultivos por exceso o falta de agua, por el contrario, proporciona las
+  condiciones óptimas para el desarrollo de los cultivos, lo que
+  resulta en una buena producción y conservación del suelo para las
+  futuras siembras.
+  
+\stopframedtext
+
+
+
+\subject{Referencias}
+\switchtobodyfont[10pt]
+\placelistofpublications
+  [criterium=all]
+\stopcolumns
+
+
+\stoptext

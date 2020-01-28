@@ -1,0 +1,780 @@
+local utilitydata = { }
+
+utilitydata.comment={
+ ["escape"]="[===[ ... ]===]",
+ ["file"]="main",
+ ["format"]="cont-en",
+ ["stamp"]="2019.07.16 18:23",
+ ["version"]=1.31,
+}
+
+if not utilitydata.job then utilitydata.job = { } end
+if not utilitydata.job.variables then utilitydata.job.variables = { } end
+
+utilitydata.job.variables.checksums={
+}
+
+if not utilitydata.job then utilitydata.job = { } end
+if not utilitydata.job.variables then utilitydata.job.variables = { } end
+
+utilitydata.job.variables.collected={
+ ["macros"]={},
+ ["randomseed"]=0.97518568579108,
+ ["sectionblockorder"]={},
+}
+
+if not utilitydata.job then utilitydata.job = { } end
+if not utilitydata.job.structure then utilitydata.job.structure = { } end
+
+utilitydata.job.structure.collected={
+ ["branches"]={},
+ ["name"]="",
+ ["type"]="text",
+}
+
+if not utilitydata.job then utilitydata.job = { } end
+if not utilitydata.job.positions then utilitydata.job.positions = { } end
+
+utilitydata.job.positions.collected={
+ ["columnarea:1"]={
+  ["d"]=240327,
+  ["h"]=37525401,
+  ["p"]=1,
+  ["w"]=17124635,
+  ["x"]=1864679,
+  ["y"]=3450026,
+ },
+ ["columnarea:2"]={
+  ["d"]=240327,
+  ["h"]=37525401,
+  ["p"]=1,
+  ["w"]=17124635,
+  ["x"]=20168962,
+  ["y"]=3450026,
+ },
+ ["columnarea:3"]={
+  ["d"]=240327,
+  ["h"]=617985,
+  ["p"]=2,
+  ["w"]=17124635,
+  ["x"]=1864679,
+  ["y"]=51797540,
+ },
+ ["columnarea:4"]={
+  ["p"]=2,
+  ["w"]=17124635,
+  ["x"]=20168962,
+  ["y"]=51797540,
+ },
+ ["columnarea:5"]={
+  ["d"]=200272,
+  ["h"]=26979608,
+  ["p"]=2,
+  ["w"]=17124635,
+  ["x"]=1864679,
+  ["y"]=4710807,
+ },
+ ["columnarea:6"]={
+  ["d"]=200272,
+  ["h"]=26979608,
+  ["p"]=2,
+  ["w"]=17124635,
+  ["x"]=20168962,
+  ["y"]=4710807,
+ },
+ ["columnarea:7"]={
+  ["d"]=200272,
+  ["h"]=1945508,
+  ["p"]=3,
+  ["w"]=17124635,
+  ["x"]=1864679,
+  ["y"]=50638464,
+ },
+ ["columnarea:8"]={
+  ["d"]=200272,
+  ["h"]=1945508,
+  ["p"]=3,
+  ["w"]=17124635,
+  ["x"]=20168962,
+  ["y"]=50638464,
+ },
+ ["free:1"]={
+  ["bo"]=858312,
+  ["d"]=240327,
+  ["h"]=13040771,
+  ["k"]=1,
+  ["p"]=1,
+  ["to"]=858312,
+  ["w"]=15412241,
+  ["x"]=21025159,
+  ["y"]=27482762,
+ },
+ ["free:2"]={
+  ["bo"]=643734,
+  ["d"]=240327,
+  ["h"]=18339003,
+  ["k"]=1,
+  ["p"]=2,
+  ["to"]=643734,
+  ["w"]=35428918,
+  ["x"]=1864679,
+  ["y"]=32574476,
+ },
+ ["p:1"]={
+  ["d"]=240327,
+  ["h"]=617985,
+  ["hs"]=35428918,
+  ["p"]=1,
+  ["r"]="textarea:1",
+  ["x"]=1864679,
+  ["y"]=42717800,
+ },
+ ["p:10"]={
+  ["d"]=240327,
+  ["h"]=617985,
+  ["hs"]=35428918,
+  ["p"]=2,
+  ["r"]="textarea:2",
+  ["x"]=1864679,
+  ["y"]=31072430,
+ },
+ ["p:11"]={
+  ["d"]=240327,
+  ["h"]=617985,
+  ["hs"]=17124635,
+  ["p"]=2,
+  ["r"]="columnarea:5",
+  ["x"]=1864679,
+  ["y"]=27639182,
+ },
+ ["p:12"]={
+  ["d"]=240327,
+  ["h"]=617985,
+  ["hs"]=17124635,
+  ["p"]=2,
+  ["r"]="columnarea:5",
+  ["x"]=1864679,
+  ["y"]=21630998,
+ },
+ ["p:13"]={
+  ["d"]=240327,
+  ["h"]=617985,
+  ["hs"]=17124635,
+  ["p"]=2,
+  ["r"]="columnarea:5",
+  ["x"]=1864679,
+  ["y"]=15622814,
+ },
+ ["p:14"]={
+  ["d"]=240327,
+  ["h"]=617985,
+  ["hs"]=17124635,
+  ["p"]=2,
+  ["r"]="columnarea:5",
+  ["x"]=1864679,
+  ["y"]=9614630,
+ },
+ ["p:15"]={
+  ["d"]=240327,
+  ["h"]=617985,
+  ["hs"]=17124635,
+  ["p"]=2,
+  ["r"]="columnarea:6",
+  ["x"]=20168962,
+  ["y"]=21630998,
+ },
+ ["p:16"]={
+  ["d"]=240327,
+  ["h"]=617985,
+  ["hs"]=17124635,
+  ["p"]=2,
+  ["r"]="columnarea:6",
+  ["x"]=20168962,
+  ["y"]=12189566,
+ },
+ ["p:2"]={
+  ["d"]=240327,
+  ["h"]=617985,
+  ["hs"]=35428918,
+  ["p"]=1,
+  ["r"]="textarea:1",
+  ["x"]=1864679,
+  ["y"]=40357442,
+ },
+ ["p:3"]={
+  ["d"]=240327,
+  ["h"]=617985,
+  ["hs"]=17124635,
+  ["p"]=1,
+  ["r"]="columnarea:1",
+  ["x"]=1864679,
+  ["y"]=36924194,
+ },
+ ["p:4"]={
+  ["d"]=240327,
+  ["h"]=617985,
+  ["hs"]=17124635,
+  ["p"]=1,
+  ["r"]="columnarea:1",
+  ["x"]=1864679,
+  ["y"]=33490946,
+ },
+ ["p:5"]={
+  ["d"]=240327,
+  ["h"]=617985,
+  ["hs"]=17124635,
+  ["p"]=1,
+  ["r"]="columnarea:1",
+  ["x"]=1864679,
+  ["y"]=27482762,
+ },
+ ["p:6"]={
+  ["d"]=240327,
+  ["h"]=617985,
+  ["hs"]=17124635,
+  ["p"]=1,
+  ["r"]="columnarea:1",
+  ["x"]=1864679,
+  ["y"]=14608082,
+ },
+ ["p:7"]={
+  ["d"]=240327,
+  ["h"]=617985,
+  ["hs"]=17124635,
+  ["p"]=1,
+  ["r"]="columnarea:2",
+  ["x"]=20168962,
+  ["y"]=25766138,
+ },
+ ["p:8"]={
+  ["d"]=240327,
+  ["h"]=617985,
+  ["hs"]=17124635,
+  ["p"]=1,
+  ["r"]="columnarea:2",
+  ["x"]=20168962,
+  ["y"]=12033146,
+ },
+ ["p:9"]={
+  ["d"]=240327,
+  ["h"]=617985,
+  ["hs"]=17124635,
+  ["p"]=1,
+  ["r"]="columnarea:2",
+  ["x"]=20168962,
+  ["y"]=4308338,
+ },
+ ["page:1"]={
+  ["h"]=55380990,
+  ["w"]=39158276,
+  ["x"]=0,
+  ["y"]=0,
+ },
+ ["text:1"]={
+  ["h"]=49786954,
+  ["p"]=1,
+  ["w"]=35428918,
+  ["x"]=1864679,
+  ["y"]=2797018,
+ },
+ ["text:2"]={
+  ["h"]=49786954,
+  ["p"]=2,
+  ["w"]=35428918,
+  ["x"]=1864679,
+  ["y"]=2797018,
+ },
+ ["text:3"]={
+  ["h"]=49786954,
+  ["p"]=3,
+  ["w"]=35428918,
+  ["x"]=1864679,
+  ["y"]=2797018,
+ },
+ ["textarea:1"]={
+  ["h"]=49786954,
+  ["p"]=1,
+  ["w"]=35428918,
+  ["x"]=1864679,
+  ["y"]=2797018,
+ },
+ ["textarea:2"]={
+  ["h"]=49786954,
+  ["p"]=2,
+  ["w"]=35428918,
+  ["x"]=1864679,
+  ["y"]=2797018,
+ },
+ ["textarea:3"]={
+  ["h"]=49786954,
+  ["p"]=3,
+  ["w"]=35428918,
+  ["x"]=1864679,
+  ["y"]=2797018,
+ },
+}
+
+if not utilitydata.job then utilitydata.job = { } end
+if not utilitydata.job.passes then utilitydata.job.passes = { } end
+
+utilitydata.job.passes.collected={
+}
+
+if not utilitydata.job then utilitydata.job = { } end
+if not utilitydata.job.datasets then utilitydata.job.datasets = { } end
+
+utilitydata.job.datasets.collected={
+}
+
+if not utilitydata.job then utilitydata.job = { } end
+if not utilitydata.job.pagestates then utilitydata.job.pagestates = { } end
+
+utilitydata.job.pagestates.collected={
+ ["float"]={ 1, 2 },
+}
+
+if not utilitydata.structures then utilitydata.structures = { } end
+if not utilitydata.structures.specials then utilitydata.structures.specials = { } end
+
+utilitydata.structures.specials.collected={
+}
+
+if not utilitydata.structures then utilitydata.structures = { } end
+if not utilitydata.structures.sections then utilitydata.structures.sections = { } end
+
+utilitydata.structures.sections.collected={
+}
+
+if not utilitydata.structures then utilitydata.structures = { } end
+if not utilitydata.structures.counters then utilitydata.structures.counters = { } end
+
+utilitydata.structures.counters.collected={
+ ["chemical"]={
+  { 0 },
+ },
+ ["combination"]={
+  { 0 },
+ },
+ ["endnote"]={
+  { 0 },
+ },
+ ["figure"]={
+  { 2 },
+ },
+ ["footnote"]={
+  { 0 },
+ },
+ ["formula"]={
+  { 0 },
+ },
+ ["graphic"]={
+  { 0 },
+ },
+ ["intermezzo"]={
+  { 0 },
+ },
+ ["itemgroup:itemize"]={
+  { 0 },
+ },
+ ["linenote"]={
+  { 0 },
+ },
+ ["paragraph"]={
+  { 0 },
+ },
+ ["realpage"]={
+  { 3 },
+ },
+ ["subpage"]={
+  { 3 },
+ },
+ ["table"]={
+  { 0 },
+ },
+ ["textnote:note"]={
+  { 0 },
+ },
+ ["userpage"]={
+  { 3 },
+ },
+}
+
+if not utilitydata.structures then utilitydata.structures = { } end
+if not utilitydata.structures.lists then utilitydata.structures.lists = { } end
+
+utilitydata.structures.lists.collected={
+ {
+  ["metadata"]=1,
+  ["references"]={
+   ["internal"]=2,
+   ["realpage"]=1,
+   ["section"]=0,
+   ["used"]=true,
+   ["x"]=0,
+   ["y"]=0,
+  },
+  ["userdata"]={
+   ["btxint"]="1",
+   ["btxref"]="fao",
+  },
+ },
+ {
+  ["metadata"]=1,
+  ["references"]={
+   ["internal"]=3,
+   ["realpage"]=1,
+   ["section"]=0,
+   ["used"]=true,
+   ["x"]=0,
+   ["y"]=0,
+  },
+  ["userdata"]={
+   ["btxint"]="2",
+   ["btxref"]="PEREIRA20154",
+  },
+ },
+ {
+  ["metadata"]=2,
+  ["numberdata"]=4,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=1,
+   ["realpage"]=1,
+   ["section"]=0,
+   ["x"]=18989314,
+   ["y"]=39499130,
+  },
+  ["titledata"]={
+   ["label"]="section",
+   ["title"]="Evapotranspiración y el Riego \\thinrule ",
+  },
+ },
+ {
+  ["metadata"]=5,
+  ["numberdata"]=7,
+  ["prefixdata"]=8,
+  ["references"]={
+   ["internal"]=4,
+   ["realpage"]=1,
+   ["section"]=0,
+   ["view"]="fit",
+   ["x"]=21025159,
+   ["y"]=40523533,
+  },
+  ["titledata"]={
+   ["title"]="Evapotranspiracion",
+  },
+ },
+ {
+  ["metadata"]=2,
+  ["numberdata"]=4,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=5,
+   ["realpage"]=1,
+   ["section"]=0,
+   ["x"]=37293597,
+   ["y"]=14608082,
+  },
+  ["titledata"]={
+   ["label"]="section",
+   ["title"]="Objetivo \\thinrule ",
+  },
+ },
+ {
+  ["metadata"]=2,
+  ["numberdata"]=4,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=6,
+   ["realpage"]=1,
+   ["section"]=0,
+   ["x"]=37293597,
+   ["y"]=6883274,
+  },
+  ["titledata"]={
+   ["label"]="section",
+   ["title"]="Metodología \\thinrule ",
+  },
+ },
+ {
+  ["metadata"]=5,
+  ["numberdata"]=10,
+  ["prefixdata"]=8,
+  ["references"]={
+   ["internal"]=7,
+   ["realpage"]=2,
+   ["reference"]="water",
+   ["section"]=0,
+   ["used"]="fit",
+   ["view"]="fit",
+   ["x"]=3636326,
+   ["y"]=50913479,
+  },
+  ["titledata"]={
+   ["title"]="Esquema del contenido de agua en el suelo. {\\bf Saturación}. Es el exceso de agua en el suelo, los poros del suelo están completamente ocupados por agua sin dejar espacio para el intercambio de gases y otras funciones importantes para el desarrollo de los cultivos. {\\bf Capacidad de campo}. Es la cantidad óptima de agua en el suelo donde los cultivos pueden desarrollarse y producir con mayor eficiencia. {\\bf Punto de marchitez permanente}. Sucede cuando el nivel de agua en el suelo ha sido muy baja por un periodo prologado que la planta yo no es capaz de recuperarse",
+  },
+ },
+ {
+  ["metadata"]=2,
+  ["numberdata"]=4,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=8,
+   ["realpage"]=2,
+   ["section"]=0,
+   ["x"]=18989314,
+   ["y"]=30214118,
+  },
+  ["titledata"]={
+   ["label"]="section",
+   ["title"]="Solución y Alcance \\thinrule ",
+  },
+ },
+ {
+  ["metadata"]=2,
+  ["numberdata"]=4,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=9,
+   ["realpage"]=2,
+   ["section"]=0,
+   ["x"]=37293597,
+   ["y"]=8756318,
+  },
+  ["titledata"]={
+   ["label"]="section",
+   ["title"]="Referencias",
+  },
+ },
+}
+
+if not utilitydata.structures then utilitydata.structures = { } end
+if not utilitydata.structures.pages then utilitydata.structures.pages = { } end
+
+utilitydata.structures.pages.collected={
+ {
+  ["block"]="bodypart",
+  ["number"]=1,
+  ["numberdata"]=11,
+  ["prefixdata"]=12,
+  ["state"]="start",
+ },
+ {
+  ["block"]="bodypart",
+  ["number"]=2,
+  ["numberdata"]=11,
+  ["prefixdata"]=12,
+  ["state"]="start",
+ },
+ {
+  ["block"]="bodypart",
+  ["number"]=3,
+  ["numberdata"]=11,
+  ["prefixdata"]=12,
+  ["state"]="start",
+ },
+}
+
+if not utilitydata.structures then utilitydata.structures = { } end
+if not utilitydata.structures.references then utilitydata.structures.references = { } end
+
+utilitydata.structures.references.collected={
+ [""]={
+  ["btx::list::1"]={
+   ["entries"]={
+    ["text"]="1",
+   },
+   ["metadata"]=13,
+   ["references"]={
+    ["block"]="bodypart",
+    ["internal"]=10,
+    ["realpage"]=2,
+    ["reference"]="btx::list::1",
+    ["section"]=0,
+    ["used"]="fit",
+    ["view"]="fit",
+    ["x"]=20168962,
+    ["y"]=6284379,
+   },
+   ["userdata"]={
+    ["btxint"]="1",
+    ["btxlst"]="1",
+    ["btxref"]="fao",
+    ["btxspc"]="apa",
+   },
+  },
+  ["btx::list::2"]={
+   ["entries"]={
+    ["text"]="2",
+   },
+   ["metadata"]=13,
+   ["references"]={
+    ["block"]="bodypart",
+    ["internal"]=11,
+    ["realpage"]=3,
+    ["reference"]="btx::list::2",
+    ["section"]=0,
+    ["used"]="fit",
+    ["view"]="fit",
+    ["x"]=1864679,
+    ["y"]=52068984,
+   },
+   ["userdata"]={
+    ["btxint"]="2",
+    ["btxlst"]="2",
+    ["btxref"]="PEREIRA20154",
+    ["btxspc"]="apa",
+   },
+  },
+ },
+}
+
+if not utilitydata.structures then utilitydata.structures = { } end
+if not utilitydata.structures.references then utilitydata.structures.references = { } end
+
+utilitydata.structures.references.referred={
+ { 1, 1 },
+ { 2, 4 },
+ { 3, 6 },
+}
+
+if not utilitydata.job then utilitydata.job = { } end
+if not utilitydata.job.objects then utilitydata.job.objects = { } end
+
+utilitydata.job.objects.collected={
+}
+
+if not utilitydata.structures then utilitydata.structures = { } end
+if not utilitydata.structures.synonyms then utilitydata.structures.synonyms = { } end
+
+utilitydata.structures.synonyms.collected={
+}
+
+if not utilitydata.structures then utilitydata.structures = { } end
+if not utilitydata.structures.registers then utilitydata.structures.registers = { } end
+
+utilitydata.structures.registers.collected={
+}
+
+if not utilitydata.structures then utilitydata.structures = { } end
+if not utilitydata.structures.blocks then utilitydata.structures.blocks = { } end
+
+utilitydata.structures.blocks.collected={
+}
+
+if not utilitydata.job then utilitydata.job = { } end
+if not utilitydata.job.files then utilitydata.job.files = { } end
+
+utilitydata.job.files.collected={
+}
+
+if not utilitydata.publications then utilitydata.publications = { } end
+
+utilitydata.publications.collected={
+ ["default"]={
+  ["datasources"]={
+   {
+    ["checksum"]="DD2128A5374704405300E13197D29BEB",
+    ["filename"]="ref.bib",
+   },
+  },
+  ["usersource"]={},
+ },
+}
+
+if not utilitydata.job then utilitydata.job = { } end
+if not utilitydata.job.fileobjreferences then utilitydata.job.fileobjreferences = { } end
+
+utilitydata.job.fileobjreferences.collected={
+}
+
+if not utilitydata.job then utilitydata.job = { } end
+if not utilitydata.job.embedded then utilitydata.job.embedded = { } end
+
+utilitydata.job.embedded.collected={
+}
+
+utilitydata.job.packed={
+ ["index"]={
+  {
+   ["catcodes"]=8,
+   ["kind"]="btx",
+   ["level"]=3,
+   ["name"]="btx",
+  },
+  {
+   ["catcodes"]=8,
+   ["coding"]="tex",
+   ["kind"]="section",
+   ["level"]=3,
+   ["name"]="subject",
+   ["nolist"]=true,
+  },
+  { 0, 0, 0 },
+  {
+   ["block"]="bodypart",
+   ["conversionset"]="default",
+   ["hidenumber"]=true,
+   ["language"]="es",
+   ["numbers"]=3,
+   ["separatorset"]="default",
+   ["set"]="all",
+  },
+  {
+   ["catcodes"]=8,
+   ["coding"]="tex",
+   ["kind"]="float",
+   ["level"]=3,
+   ["name"]="figure",
+  },
+  { 1 },
+  {
+   ["conversionset"]="number",
+   ["counter"]="figure",
+   ["numbers"]=6,
+  },
+  {
+   ["connector"]=".",
+   ["prefix"]="yes",
+   ["segments"]="2:2",
+  },
+  { 2 },
+  {
+   ["conversionset"]="number",
+   ["counter"]="figure",
+   ["numbers"]=9,
+  },
+  {
+   ["conversionset"]="pagenumber",
+  },
+  {
+   ["connector"]="–",
+   ["prefix"]="no",
+   ["set"]="part",
+  },
+  {
+   ["kind"]="full",
+  },
+ },
+ ["keys"]={
+  ["directives"]=true,
+  ["metadata"]=true,
+  ["numberdata"]=true,
+  ["numbers"]=true,
+  ["ownnumbers"]=true,
+  ["pagedata"]=true,
+  ["prefixdata"]=true,
+  ["processors"]=true,
+  ["sectiondata"]=true,
+  ["specification"]=true,
+ },
+ ["skip"]={
+  ["datasets"]=true,
+  ["positions"]=true,
+  ["userdata"]=true,
+ },
+ ["version"]=1.02,
+}
+
+return utilitydata
